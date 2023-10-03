@@ -32,7 +32,7 @@ button {
   border-radius: 8px;
   border: none;
   background-color: #ffffff;
-  color: #ba7f26;
+  color: #6b26ba;
   font-size: 16px;
 }
 
@@ -66,7 +66,7 @@ button:hover {
 }
 
 .input::placeholder {
-  color: #ba7f26;
+  color: #263fba;
   font-size: 16px;
 }
 
@@ -75,7 +75,7 @@ button:hover {
   padding: 12px 16px;
   border-radius: 8px;
   border: none;
-  color: #ba7f26;
+  color: #4b26ba;
   font-size: 16px;
 }
 
@@ -125,7 +125,7 @@ button:hover {
 
 .load-more {
   display: block;
-  border: 1px solid #ba7f26;
+  border: 1px solid #265cba;
   margin-left: auto;
   margin-right: auto;
 }
